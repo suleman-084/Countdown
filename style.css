@@ -1,0 +1,23 @@
+body {
+  background-color: #2865c7;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 13rem;
+}
+.entering {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.input {
+  width: 11rem;
+}
+#button {
+  margin-top: -20px;
+}
+#countdown {
+  font-size: 60px;
+}
