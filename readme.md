@@ -20,4 +20,4 @@
 
 **Time took to complete this project**: 3.5 Hours
 
-## [**Live-link**](https://countdown-program.netlify.app/) of the project
+## [**Live-link**](https://count-down-usingjs.netlify.app/) of the project
